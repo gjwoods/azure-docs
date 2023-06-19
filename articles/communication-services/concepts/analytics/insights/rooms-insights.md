@@ -51,7 +51,7 @@ The **Rooms Insights** dashboards provided with your **Communication Service** r
 
 :::image type="content" source="..\media\workbooks\rooms-insights\rooms-insights-edit.png" alt-text="Screenshot of Rooms insights editing process." lightbox="..\media\workbooks\rooms-insights\rooms-insights-edit.png":::
 
-Editing these dashboards doesn't modify the **Insights** tab, but rather creates a separate workbook that can be accessed on your resource’s Workbooks tab:
+Editing these dashboards doesn't modify the **Insights** tab, but rather creates a separate workbook that can be accessed on your resource's Workbooks tab:
 
 :::image type="content" source="..\media\workbooks\workbooks-tab.png" alt-text="Screenshot of the workbooks tab.":::
 
